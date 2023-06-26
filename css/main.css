@@ -86,11 +86,12 @@ form input {
 
 form button {
   margin-left: 50px;
-  width: 30%;
-  height: 50px;
-  font-size: 30px;
+  padding: 0.25em 1em;
+  font-size: 1em;
   background-color: var(--bg-cor-main-darck);
   color: var(--cor-texto);
+  border: none;
+  border-radius: 5px;
 }
 
 form input {
